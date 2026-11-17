@@ -77,6 +77,49 @@ The dataset was divided into training and testing sets using an 80/20 stratified
 - Evaluated clustering using purity and silhouette score.
 - Compared cluster assignments with actual sentiment labels.
 
+## 📊 Project Visualizations
+
+### 1. Overall Sentiment Distribution
+![Sentiment Distribution](images/Sentiment%20Distribution.jpeg)
+
+### 2. Sentiment Analysis by Airline
+![Sentiment per Airline](images/Sentiment%20per%20airline.jpeg)
+
+### 3. Reasons for Negative Tweets
+![Negative Reasons](images/Negative%20reasons.jpeg)
+
+### 4. Sentiment Categories Analysis
+
+**Negative Tweets**
+
+![Negative Tweets](images/Negative%20tweets.jpeg)
+
+**Neutral Tweets**
+
+![Neutral Tweets](images/Neutral%20tweets.jpeg)
+
+**Positive Tweets**
+
+![Positive Tweets](images/Positive%20tweets.jpeg)
+
+### 5. Machine Learning Classification
+
+**Balanced Logistic Regression**
+
+![Balanced Logistic Regression](images/Balanced%20logistic%20regression.jpeg)
+
+**Logistic Regression Confusion Matrix**
+
+![Logistic Regression Confusion Matrix](images/Logistic%20Regression%20confusion%20matrix.jpeg)
+
+**Naive Bayes Confusion Matrix**
+
+![Naive Bayes Confusion Matrix](images/Naive%20Bayes%20confusion%20matrix.jpeg)
+
+### 6. Unsupervised Learning — K-Means
+
+![K-Means Clustering](images/Kmeans.jpeg)
+
 ## Results
 
 ### Supervised Model Comparison
